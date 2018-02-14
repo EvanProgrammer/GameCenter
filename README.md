@@ -1,0 +1,2 @@
+# GameCenter
+On the way to a family wedding and in the back of a bouncy car I wrote a Scattergories web app for us to play once we reached our destination.  Needless to say, in a car with no web access and only using the resources at hand, it wasn't very fancy and the backend is best left unmentioned.  However, it was always my intention to turn it into a proper application and maybe even involve other games.  Think Jackbox.
